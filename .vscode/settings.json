@@ -1,0 +1,23 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/autoware/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages",
+        "/home/autoware/.local/bin",
+        "/usr/local/cuda-9.0/bin",
+        "/usr/local/lib/python2.7/dist-packages/",
+        "/opt/ros/kinetic/bin",
+        "/home/autoware/ardupilot/Tools/autotest",
+        "/opt/gcc-arm-none-eabi-6-2017-q2-update/bin",
+        "/home/autoware/bin",
+        "/home/autoware/.local/bin",
+        "/usr/local/sbin",
+        "/usr/local/bin",
+        "/usr/sbin",
+        "/usr/bin",
+        "/sbin",
+        "/bin",
+        "/usr/games",
+        "/usr/local/games",
+        "/snap/bin"
+    ]
+}
